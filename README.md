@@ -1,8 +1,8 @@
-# env-var-checker
+# env-example-drift-check
 
 Compare your `.env.example` (the committed reference) against your actual `.env`. Find missing variables, undocumented additions, and possible leaked secrets in either file. Browser only.
 
-**Live demo:** https://0xelitesystem.github.io/env-var-checker/
+**Live demo:** https://0xelitesystem.github.io/env-example-drift-check/
 
 ## Use
 
@@ -68,8 +68,8 @@ If you use the theme toggle, your light or dark choice is saved in your browser'
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/env-var-checker
-cd env-var-checker
+git clone https://github.com/0xelitesystem/env-example-drift-check
+cd env-example-drift-check
 ```
 
 Open `index.html` in a browser.
